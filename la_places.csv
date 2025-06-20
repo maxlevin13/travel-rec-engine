@@ -1,0 +1,25 @@
+name,city,neighborhood,example_type,category,vibe,why_i_like_it
+Cozy Inn,LA,Culver City,Positive,Dive bar,"low-key, throwback","no frills dive bar with good energy, great for getting a drink with friends"
+Oldfields,LA,Palms,Positive,Bar,"low-key, continental","solid cocktail bar, good for a date night but not too fancy"
+Hotcakes Bakes,LA,Culver City,Positive,Pastries,"fresh, yummy",excellent cupcakes and other pastries
+Zooies,LA,Palms,Positive,Pastries,"fresh, yummy","excellent fresh cookies with a wide variety of flavors, in the back of a gas station convenient store"
+Dear John's,LA,Culver City,Positive,Steakhouse,"throwback, sexy","dimly lit steakhouse that has an old school feel, great for date night"
+Great White,LA,Venice Beach,Positive,Californian,"vibey, fabulous, quintessential","vibey brunch spot in Venice Beach, very LA, with lots of fabulous looking people, and the food is very good"
+Destroyer,LA,Culver City,Positive,Californian,"vibey, creative, quintessential","vibey brunch spot in Culver City, very LA, a bit too pretentious, but it has some of the best and most creative food in LA"
+Heavy Handed,LA,Santa Monica,Positive,Burgers,"throwback, casual, yummy",yummy smash burgers and soft serve ice cream at a casual spot in a fun area near the beach
+Dan Sung Sa,LA,K-Town,Positive,Korean,"portal, authentic, cool","like taking a portal to a cool bar in Seoul, feels very authentic, lots of fun energy, and the food is good"
+The Last Bookstore,LA,DTLA,Positive,Bookstore,enduring,"huge used bookstore in downtown LA, has a great selection, lots of books and great prices"
+DGM Soju Bar DwitGolMok,LA,K-Town,Positive,Korean,"portal, authentic","similar to Dan Sung Sa with many of the same positive aspects, but not quite as cool, but a more low-key spot where you don't have to wait for a table"
+Little Fatty,LA,Mar Vista,Positive,Taiwanese,"creative, fresh","good Taiwanese food (similar to Chinese), with plenty of vegetable options and a good spot for a date or take-out"
+Ginger's Divine Ice Creams,LA,Culver City,Positive,Ice cream,"yummy, throwback",old school ice cream parlor but with lots of innovative flavors
+Hatchet Hall,LA,Culver City,Positive,Date night,"vibey, fresh, creative","vibey dinner spot, with excellent food and a creative menu, great for date night"
+Cofax Coffee,LA,Culver City,Positive,Coffee shop,"throwback, neighborhood, fresh",neighborhood coffee shop with fresh donuts and excellent breakfast burritos
+Wallflower,LA,Venice Beach,Positive,Date night,"vibey, creative",vibey date night spot in Venice Beach with good food
+Go Go Bird,LA,Culver City,Positive,Fried chicken,yummy,excellent Japanese-style fried chicken with a fun menu of sides in a food hall in downtown Culver City
+Father's Office,LA,Culver City,Positive,Burgers,"yummy, enduring","one of the original gourmet burger spots, they have a few locations now, but the burgers are still excellent"
+Mayura Indian Restaurant,LA,Culver City,Positive,Indian,authentic,"classic, family-run Indian restaurant with excellent authentic Indian food"
+Esquina Brasil,LA,Culver City,Positive,Brazilian,"authentic, portal, hidden gem","undiscovered gem - super authentic Brazilian place that feels like you've taken a portal to Brazil, and the food is quite good"
+DK's Donuts Santa Monica,LA,Santa Monica,Positive,Donuts,"fresh, quintessential, enduring",enduring LA-style donut shop that has innovated with lots of creative flavors but kept its classic appeal
+Tangeroa Fish Market,LA,Culver City,Positive,Seafood,"fresh, quintessential, neighborhood","fish tacos are a quintessential part of LA cuisine, and this place has great fish tacos, fresh fish and a laid-back neighborhood-y vibe"
+Village Well Bookstore,LA,Culver City,Positive,Bookstore,neighborhood,"great neighborhood bookstore, with a good selection and very nice coffee shop"
+Tito's Tacos,LA,Culver City,Negative,Mexican,"mediocre, long lines","enduring taco shop that has been here forever and has good prices, but the lines are long and the food is mediocre, so I don't really get the appeal"
